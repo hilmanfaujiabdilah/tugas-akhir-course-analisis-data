@@ -1,1 +1,4 @@
-# tugas-akhir-course-analisis-data
+# DBike Dashboard :sparkles:
+
+## Run Streamlit App
+streamlit run dashboard.py
